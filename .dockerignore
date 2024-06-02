@@ -1,0 +1,7 @@
+Dockerfile
+stack.yaml
+pnpm-lock.yaml
+dist/
+node_modules/
+.astro/
+.vscode/
